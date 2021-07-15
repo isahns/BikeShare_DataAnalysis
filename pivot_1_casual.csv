@@ -1,0 +1,8 @@
+week_of_day,member_casual,total_ride_num_per_day,total_ride_time_in_sceond_per_day,ave_ride_time__per_day
+Thursday,casual,2345,2805627,00:19:56
+Wednesday,casual,2091,3053567,00:24:20
+Sunday,casual,2862,4840493,00:28:11
+Saturday,casual,3999,7393555,00:30:48
+Monday,casual,2086,2387940,00:19:04
+Friday,casual,2832,3656846,00:21:31
+Tuesday,casual,1880,2426557,00:21:30

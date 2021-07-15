@@ -1,0 +1,8 @@
+week_of_day,member_casual,ave_casual_ride_length,total_casual_ride_length,total_casual_ride_num
+Saturday,casual,00:30:48,7393555,3999
+Sunday,casual,00:28:11,4840493,2862
+Wednesday,casual,00:24:20,3053567,2091
+Friday,casual,00:21:31,3656846,2832
+Tuesday,casual,00:21:30,2426557,1880
+Thursday,casual,00:19:56,2805627,2345
+Monday,casual,00:19:04,2387940,2086
